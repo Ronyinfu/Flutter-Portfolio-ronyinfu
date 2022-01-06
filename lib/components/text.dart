@@ -19,7 +19,7 @@ class AppText extends StatelessWidget {
           height: 7,
         ),
         Text(
-          'Flutter Devoloper',
+          'Flutter Devoloper & UI UX Designer',
           style: GoogleFonts.oswald(
             fontSize: 15,
           ),

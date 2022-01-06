@@ -14,7 +14,7 @@ class MyAppBar extends StatelessWidget {
           Row(
             children: [
               Text(
-                'flutter developer and ui ux designer  from Bangladesh',
+                'Ronyinfu',
                 style: TextStyle(
                   color: Colors.black,
                   fontFamily: 'Inconsolata',
